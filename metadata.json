@@ -1,0 +1,5 @@
+{
+  "name": "Dashboard de Gestión de Equipos Médicos",
+  "description": "Una interfaz de dashboard dinámica y visualmente atractiva para gestionar el movimiento de equipos médicos. Esta aplicación proporciona una base de frontend moderna con estadísticas clave, gráficos y registros de actividad reciente.",
+  "requestFramePermissions": []
+}
